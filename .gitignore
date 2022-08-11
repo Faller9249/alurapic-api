@@ -1,0 +1,9 @@
+/.DS_Store
+/app
+/config
+/data.db
+/data.db.zip
+/package-lock.json
+/package.json
+/server.js
+/uploads
